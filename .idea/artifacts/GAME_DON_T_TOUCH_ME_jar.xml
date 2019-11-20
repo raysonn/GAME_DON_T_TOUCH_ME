@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GAME_DON_T_TOUCH_ME:jar">
+    <output-path>$PROJECT_DIR$/Output/artifacts/GAME_DON_T_TOUCH_ME_jar</output-path>
+    <root id="archive" name="GAME_DON_T_TOUCH_ME.jar">
+      <element id="module-output" name="GAME_DON_T_TOUCH_ME" />
+      <element id="library" level="project" name="jdk1.8" />
+    </root>
+  </artifact>
+</component>

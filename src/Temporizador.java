@@ -40,17 +40,10 @@ public class Temporizador {
                     // e.printStackTrace();
                     // }
 
-                    // yes
                 } else {
                     System.exit(0);
                 }
-
-                // JOptionPane.showMessageDialog (null, "Are you sure?");
-                // int YESNO = JOptionPane.YES_NO_OPTION;
-
             }
-
-            // System.err.println(segundo);
         }
     }
 
