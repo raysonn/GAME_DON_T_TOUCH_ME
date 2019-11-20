@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="GAME_DON_T_TOUCH_ME:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="915477f9-99df-4b36-8c3d-3dfaf2d6eb18" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
